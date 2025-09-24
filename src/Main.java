@@ -3,6 +3,17 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
+//        num age
+//
+//        output “Please enter your age:”
+//
+//        input age
+//
+//        if age >= 21 then
+//
+//          output “Here is your wrist band!”
+//
+//        end if
 
         Scanner in = new Scanner(System.in);
 
